@@ -1,3 +1,6 @@
+![image](https://github.com/AjinathTangade/tesla-clone-app/assets/93082482/339709f9-a953-4dcd-b8b9-f9c0a136ad94)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
